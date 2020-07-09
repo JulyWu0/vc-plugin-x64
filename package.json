@@ -1,0 +1,17 @@
+{
+  "name": "vc-plugin-x64",
+  "version": "1.0.0",
+  "description": "To Capture Images In telemedicine-*-app By Mr.Piao",
+  "license": "vcx64license",
+  "main": "vc.node",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vc",
+	"x64",
+	"capture images"
+  ],
+  "author": "WangLi Piao",
+  "license": "asiefhw8e9"
+}
